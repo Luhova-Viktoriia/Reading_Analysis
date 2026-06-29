@@ -1,0 +1,8 @@
+**Books Reading Analytics** is an end-to-end data analytics project built around a real-world dataset that I personally maintain and continuously expand. The project demonstrates the complete analytical workflow - from collecting and preparing raw data in Excel, through relational database design and SQL analysis in PostgreSQL to developing interactive Power BI dashboards that transform structured data into meaningful insights.
+
+The database follows a normalized relational model and incorporates many-to-many relationships, bridge tables, dimension tables and a scalable structure designed to support future data growth. Throughout the project, I applied data cleaning, validation and transformation techniques, developed analytical SQL queries using joins, aggregations, window functions, CTEs and documented each stage of the workflow to ensure transparency and reproducibility.
+
+The Power BI reporting layer consists of three interactive dashboards focused on reading behavior, book series progression and genre analysis. The reports leverage DAX measures, calculated columns, KPI calculations, hierarchical drill-down, dynamic filtering and custom business logic to explore reading patterns, author preferences, publication trends and content diversity.
+
+Rather than presenting only the final solution, this project also documents the design decisions, challenges encountered and the reasoning behind each improvement. It is designed as an evolving analytics solution that will continue to expand with additional reading data and new analytical features, reflecting both my technical development and the iterative nature of real-world data analytics projects.
+
